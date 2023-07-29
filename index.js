@@ -1,5 +1,5 @@
 function schoolCountDown(){
-    const schoolDate = new Date("August 6, 2023 08:15");
+    const schoolDate = new Date("September 6, 2023 08:15");
     const now = new Date();
     const difference = schoolDate - now;
 
